@@ -4,7 +4,7 @@
     />
 </p>
 <p align='center'>
-  <a href="https://voluble-marzipan-d9b11b.netlify.app/home">
+  <a href="https://marianaportfolioingweb.netlify.app/">
     <img 
         src="https://media.discordapp.net/attachments/1347853430525263883/1347853567091937342/image.png?ex=67cd55f4&is=67cc0474&hm=5961367e0a54f634b9c58116a7c378274eacaf5e41fc646e87a0d38b90b5e0b3&=&format=webp&quality=lossless&width=1549&height=920" width="465" height="285" alt="Hosted portfolio on Netlify"
     />
