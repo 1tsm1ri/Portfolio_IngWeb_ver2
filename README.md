@@ -23,11 +23,6 @@
 
 This project is my personal portfolio designed to showcase my skills, projects, and professional profile. The page includes information about me, my hobbies, and an interactive contact section to facilitate communication with potential employers or collaborators.
 
-#### Main Sections of the project
-- Home
-- About me
-- Contact
-
 ## 💻️ Technologies Used
 - HTML
 - CSS
