@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Lemon Milk" ;
+    src: url(../assets/fonts/LEMONMILK-Light.otf) format(OpenType);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Lemon Milk' ;
+    src: url(../assets/fonts/LEMONMILK-Regular.otf) format(OpenType);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Lemon Milk" ;
+    src: url(../assets/fonts/LEMONMILK-Bold.otf) format(OpenType);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Lemon Milk" ;
+    src: url(../assets/fonts/LEMONMILK-Medium.otf)
+format(OpenType);
+    font-weight: 700;
+}
